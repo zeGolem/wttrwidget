@@ -10,8 +10,8 @@ Because I thought it was cool
 
 ## How do I use it ?
 
-There is no pre-packed binary *yet*, so look at the [Build instructions](#build-instructions) to build it for yourself.
-Then, just start the binary. Once again, there are no ways of making it automatically open on startup, but you can do it manually by tinkering a bit.
+Download the binary from the "Releases" tab, or build it yourself by reading the [build instructions](#build-instructions) to build it for yourself.
+Then, just start the binary. There are no ways of making it automatically open on startup, but you can do it manually by tinkering a bit.
 
 # Build Instructions
 
